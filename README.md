@@ -8,3 +8,4 @@
 }
 4. -D: dependencia de desarrollo
 5. Cambio probando git
+6. archivo database.js: conexion a la db usando mysql
